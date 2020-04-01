@@ -18,7 +18,7 @@
       <module>../TpCamille</module>
       <module>../WhoAreYouWebApp</module>
   </modules>
-  -<dependencies>
+  <dependencies>
 
 
 <dependency>
