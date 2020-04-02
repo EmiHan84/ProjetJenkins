@@ -4,7 +4,7 @@ public class WhoIam {
 	
 	public static String whoAreYou(String name) {
 		
-		String reponse = "Vous n'etes oas connu de nos services";
+		String reponse = "Pas connu de nos services";
 		
 		if(name.equals("Camille")) {
 			
